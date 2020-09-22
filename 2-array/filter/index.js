@@ -1,3 +1,4 @@
+/* eslint-disable func-names */
 function chooseMultiplesOfThree(collection) {
   // TODO 1: 在这里写实现代码
   return collection.filter(it => it % 3 === 0);
